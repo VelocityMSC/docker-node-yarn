@@ -1,6 +1,6 @@
 FROM node:latest
 
-MAINTAINER Kamil Karczmarczyk <kkarczmarczyk@gmail.com>
+MAINTAINER Steven Cook <scook@velocity.org>
 
 # Global install yarn package manager
 RUN apt-get update && apt-get install -y curl apt-transport-https && \

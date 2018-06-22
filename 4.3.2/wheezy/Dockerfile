@@ -1,6 +1,6 @@
 FROM node:4.3.2-wheezy
 
-MAINTAINER Kamil Karczmarczyk <kkarczmarczyk@gmail.com>
+MAINTAINER Steven Cook <scook@velocity.org>
 
 # Global install yarn package manager
 RUN npm set progress=false && \
