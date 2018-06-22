@@ -1,4 +1,4 @@
-FROM node:8.11-Stretch
+FROM node:8.11
 
 MAINTAINER Steven Cook <scook@velocity.org>
 
