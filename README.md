@@ -3,6 +3,8 @@ https://hub.docker.com/r/velocityorg/node-yarn-perl/
 
 NodeJS Docker image with yarn package manager ( http://yarnpkg.com ) and Perl support
 
+The `latest` tag currently points to `node:8.11.3`, as our Gitlab runner build jobs fail with NodeJS >= 9.
+
 ## Supported tags and respective `Dockerfile` links
 
 -   [`latest` (*latest/Dockerfile*)](https://github.com/velocityorg/docker-node-yarn/blob/master/latest/Dockerfile)
