@@ -23,7 +23,6 @@ Docker Hub:
 -   [`10.13.0-slim`, (*10.13.0/slim/Dockerfile*)](https://github.com/velocityorg/docker-node-yarn/blob/master/10.13.0/slim/Dockerfile)
 -   [`10.13.0-stretch`, (*10.13.0/stretch/Dockerfile*)](https://github.com/velocityorg/docker-node-yarn/blob/master/10.13.0/stretch/Dockerfile)
 -   [`11.1.0-alpine`, (*11.1.0/alpine/Dockerfile*)](https://github.com/velocityorg/docker-node-yarn/blob/master/11.1.0/alpine/Dockerfile)
--   [`11.1.0-jessie`, (*11.1.0/jessie/Dockerfile*)](https://github.com/velocityorg/docker-node-yarn/blob/master/11.1.0/jessie/Dockerfile)
 -   [`11.1.0-slim`, (*11.1.0/slim/Dockerfile*)](https://github.com/velocityorg/docker-node-yarn/blob/master/11.1.0/slim/Dockerfile)
 -   [`11.1.0-stretch`, (*11.1.0/stretch/Dockerfile*)](https://github.com/velocityorg/docker-node-yarn/blob/master/11.1.0/stretch/Dockerfile)
 
