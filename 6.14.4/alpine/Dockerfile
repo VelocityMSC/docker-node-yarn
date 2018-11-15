@@ -1,11 +1,10 @@
-FROM node:6.14.3-alpine
+FROM node:6.14.4-alpine
 
 MAINTAINER Steven Cook <scook@velocity.org>
 
-# Most dependencies are already installed from the base image
-
 RUN apk update --no-cache --no-progress && \
     apk upgrade --no-cache --no-progress && \
-    apk add --no-cache --no-progress alpine-sdk perl perl-dev
+    apk add --no-cache --no-progress alpine-sdk bash perl perl-dev && \
+    mkdir -p /workspace
 
 WORKDIR /workspace
