@@ -1,4 +1,4 @@
-FROM node:6-14.4-slim
+FROM node:6.14.4-slim
 
 MAINTAINER Steven Cook <scook@velocity.org>
 
