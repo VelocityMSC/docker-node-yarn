@@ -1,4 +1,4 @@
-FROM node:10.21.0
+FROM node:10.21.0-stretch
 MAINTAINER Steven Cook <scook@velocity.org>
 
 RUN apt-get update && apt-get install -y curl apt-transport-https && \

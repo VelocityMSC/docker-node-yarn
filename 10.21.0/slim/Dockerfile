@@ -1,4 +1,4 @@
-FROM node:10.13.0-slim
+FROM node:10.21.0-slim
 
 MAINTAINER Steven Cook <scook@velocity.org>
 

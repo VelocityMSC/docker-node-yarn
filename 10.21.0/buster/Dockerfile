@@ -1,5 +1,4 @@
-FROM node:10.13.0-stretch
-
+FROM node:10.21.0-buster
 MAINTAINER Steven Cook <scook@velocity.org>
 
 RUN apt-get -y update && \

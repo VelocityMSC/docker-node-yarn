@@ -1,4 +1,4 @@
-FROM node:10.13.0-jessie
+FROM node:10.21.0-jessie
 
 MAINTAINER Steven Cook <scook@velocity.org>
 

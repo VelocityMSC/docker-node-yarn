@@ -1,4 +1,4 @@
-FROM node:10.13.0-alpine
+FROM node:10.21.0-alpine
 
 MAINTAINER Steven Cook <scook@velocity.org>
 
